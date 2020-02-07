@@ -4,15 +4,126 @@ Ledger of Raspberry Pi machines acquired for UN-GGIM WG-Disasters Conference 202
 We start the number of the machine from 321 following [produce-320](https://github.com/un-vector-tile-toolkit/produce-320). 
 
 # 321
+- Built in GSI
+- Raspberry Pi 4
 # 322
+- Built in GSI
+- Raspberry Pi 4
 # 323
+- Built in GSI
+- Raspberry Pi 4
 # 324
+- Built in GSI
+- Raspberry Pi 4
 # 325
+- Built in GSI
+- Raspberry Pi 4
 # 326
+- Built in GSI
+- Raspberry Pi 4
 # 327
-
+- Built in GSI
+- Raspberry Pi 4
+# 328
+- Built in GSI
+- Raspberry Pi 4
+# 329
+- Built in GSI
+- Raspberry Pi 4
+# 330
+- Built in GSI
+- Raspberry Pi 4
+# 331
+- Built in GSI
+- Raspberry Pi 4
+# 332
+- Built in GSI
+- Raspberry Pi 4
+# 333
+- Built in GSI
+- Raspberry Pi 4
+# 334
+- Built in GSI
+- Raspberry Pi 4
+# 335
+- Built in GSI
+- Raspberry Pi 4
+# 336
+- Built in GSI
+- Raspberry Pi 4
+# 337
+- Built in GSI
+- Raspberry Pi 4
+# 338
+- Built in GSI
+- Raspberry Pi 4
+# 339
+- Built in GSI
+- Raspberry Pi 4
+# 340
+- Built in GSI
+- Raspberry Pi 4
+# 341
+- Built in GSI
+- Raspberry Pi 4
+# 342
+- Built in GSI
+- Raspberry Pi 4
+# 343
+- Built in GSI
+- Raspberry Pi 4
+- Used by Hidenori Fujimura, Lead UN Vector Tile Toolkit
+# 344
+- Built in GSI
+- Raspberry Pi 4
+# 345
+- Built in GSI
+- Raspberry Pi 4
+# 346
+- Built in GSI
+- Raspberry Pi 4
+# 347
+- Built in GSI
+- Raspberry Pi 4
+# 348
+- Built in GSI
+- Raspberry Pi 4
+# 349
+- Built in GSI
+- Raspberry Pi 4
+# 350
+- Built in GSI
+- Raspberry Pi 4
+# 351
+- Built in GSI
+- Raspberry Pi 4
+# 352
+- Built in GSI
+- Raspberry Pi 4
+# 353
+- Built in GSI
+- Raspberry Pi 4
+# 354
+- Built in GSI
+- Raspberry Pi 4
+# 355
+- Built in GSI
+- Raspberry Pi 4
+# 356
+- Built in GSI
+- Raspberry Pi 4
+# 357
+- Built in GSI
+- Raspberry Pi 4
+# 358
+- Built in GSI
+- Raspberry Pi 4
+# 359
+- Built in GSI
+- Raspberry Pi 4
 # 360
-
+- Built in GSI
+- Raspberry Pi 4
 
 # 400
 * at Furuhashi Laboratory, Aoyama Gakuin University
