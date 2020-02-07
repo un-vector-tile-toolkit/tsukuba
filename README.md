@@ -1,7 +1,7 @@
 # tsukuba
-Ledger of Raspberry Pi machines acquired for UN-GGIM WG-Disasters Conference 2020 in Tokyo
+Ledger of UNVT Raspberry Pi.
 
-We start the number of the machine from 321 following [produce-320](https://github.com/un-vector-tile-toolkit/produce-320).
+We started this ledger since UN-GGIM WG-Disasters Conference 2020 in Tokyo. We started the identification number from 321 following [produce-320](https://github.com/un-vector-tile-toolkit/produce-320).
 
 Number 400 and bigger are open to public. Please send a pull request if you want to add your Raspberry Pi to this ledger. 
 
