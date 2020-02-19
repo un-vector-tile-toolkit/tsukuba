@@ -2,6 +2,8 @@
 
 ![](tsukuba.jpg)
 
+![](steel.jpg)
+
 This is a ledger of Raspberry Pi set up with the United Nations Vector Tile Toolkit (UNVT). We started this ledger since UN-GGIM WG-Disasters Conference 2020 in Tokyo. We started the identification number from 321 following [produce-320](https://github.com/un-vector-tile-toolkit/produce-320).
 
 Number 400 and bigger are open to public. Please send a pull request if you want to add your Raspberry Pi to this ledger. 
