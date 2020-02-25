@@ -65,8 +65,7 @@ Number 400 and bigger are open to public. Please send a pull request if you want
 # 339
 - Built in GSI
 - Raspberry Pi 4
-- Khaled MASHFIQ
-- UNITAR
+- Used by Khaled Mashfiq, UNITAR-UNOSAT
 # 340
 - Built in GSI
 - Raspberry Pi 4
@@ -101,6 +100,7 @@ Number 400 and bigger are open to public. Please send a pull request if you want
 # 350
 - Built in GSI
 - Raspberry Pi 4
+- To be used by Verena Kausche, UN ESCAP
 # 351
 - Built in GSI
 - Raspberry Pi 4
