@@ -65,6 +65,8 @@ Number 400 and bigger are open to public. Please send a pull request if you want
 # 339
 - Built in GSI
 - Raspberry Pi 4
+- Khaled MASHFIQ
+- UNITAR
 # 340
 - Built in GSI
 - Raspberry Pi 4
