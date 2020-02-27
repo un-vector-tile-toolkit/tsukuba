@@ -1,4 +1,4 @@
-# tsukuba: Ledger of Misoras (UNVT Raspberry Pi).
+# tsukuba: Misora (UNVT Raspberry Pi) Ledger
 
 ![](tsukuba.jpg)
 
