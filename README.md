@@ -90,6 +90,7 @@ Misora is still a tentative name.
 # 346
 - Built in GSI
 - Raspberry Pi 4
+- Used by Nik Dahlia, JUPEM Malaysia
 # 347
 - Built in GSI
 - Raspberry Pi 4
