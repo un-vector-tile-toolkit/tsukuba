@@ -22,6 +22,7 @@ Misora is still a tentative name.
 # 324
 - Built in GSI
 - Raspberry Pi 4
+- 2020-02-28/: Used by Information Access Division, Geospatial Information Authority of Japan
 # 325
 - Built in GSI
 - Raspberry Pi 4
@@ -67,10 +68,11 @@ Misora is still a tentative name.
 # 339
 - Built in GSI
 - Raspberry Pi 4
-- Used by Khaled Mashfiq, UNITAR-UNOSAT
+- 2020-02-25/: Used by Khaled Mashfiq, UNITAR-UNOSAT
 # 340
 - Built in GSI
 - Raspberry Pi 4
+- 2020-02-28/: Used by Information Access Division, Geospatial Information Authority of Japan
 # 341
 - Built in GSI
 - Raspberry Pi 4
@@ -80,7 +82,7 @@ Misora is still a tentative name.
 # 343
 - Built in GSI
 - Raspberry Pi 4
-- Used by Hidenori Fujimura, Lead UN Vector Tile Toolkit
+- 2020-02-15/: Used by Hidenori Fujimura, Lead UN Vector Tile Toolkit
 # 344
 - Built in GSI
 - Raspberry Pi 4
@@ -90,7 +92,7 @@ Misora is still a tentative name.
 # 346
 - Built in GSI
 - Raspberry Pi 4
-- Used by Nik Dahlia, JUPEM Malaysia
+- 2020-02-27/: Used by Nik Dahlia, JUPEM Malaysia
 # 347
 - Built in GSI
 - Raspberry Pi 4
@@ -103,7 +105,7 @@ Misora is still a tentative name.
 # 350
 - Built in GSI
 - Raspberry Pi 4
-- To be used by Verena Kausche, UN ESCAP
+- 2020-02-25/: Used by Verena Kausche, UN ESCAP
 # 351
 - Built in GSI
 - Raspberry Pi 4
