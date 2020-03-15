@@ -10,6 +10,10 @@ Number 400 and bigger are open to public. Please send a pull request if you want
 
 Misora is still a tentative name.
 
+# hostname convention
+- We use `raspberrypi.local` when we use the `cross-cable` connection.
+- We use `m${number}` as the hostname. The host name for the machine number 343 will be `m343`.
+
 # 321
 - Built in GSI
 - Raspberry Pi 4
