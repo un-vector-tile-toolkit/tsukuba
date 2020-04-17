@@ -30,6 +30,7 @@ Misora is still a tentative name.
 # 325
 - Built in GSI
 - Raspberry Pi 4
+- 2020-04-20/: To be used by Survey of Bangladesh (TBD)
 # 326
 - Built in GSI
 - Raspberry Pi 4
@@ -80,6 +81,7 @@ Misora is still a tentative name.
 # 341
 - Built in GSI
 - Raspberry Pi 4
+- 2020-04-20/: To be used by Survey of Bangladesh (TBD)
 # 342
 - Built in GSI
 - Raspberry Pi 4
@@ -119,6 +121,7 @@ Misora is still a tentative name.
 # 353
 - Built in GSI
 - Raspberry Pi 4
+- 2020-04-20/: To be used by Survey of Bangladesh (TBD)
 # 354
 - Built in GSI
 - Raspberry Pi 4
@@ -140,6 +143,7 @@ Misora is still a tentative name.
 # 360
 - Built in GSI
 - Raspberry Pi 4
+- 2020-04-20/: To be used by Survey of Bangladesh (TBD)
 
 # 400
 * at Furuhashi Laboratory, Aoyama Gakuin University
