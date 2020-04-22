@@ -87,7 +87,7 @@ Misora is still a tentative name.
 # 343
 - Built in GSI
 - Raspberry Pi 4
-- 2020-02-15/: Used by Hidenori Fujimura, Lead UN Vector Tile Toolkit
+- 2020-02-15/: Used by Fujimura Hidenori, Lead UN Vector Tile Toolkit
 # 344
 - Built in GSI
 - Raspberry Pi 4
