@@ -174,3 +174,35 @@ Misora is still a tentative name.
 # 407
 * at Furuhashi Laboratory, Aoyama Gakuin University
 * Raspberry Pi 4 model B/2GB
+
+# 700
+* built in a JICA project, to be used in ASIG, Albania
+* Raspberry Pi 4 model B/4GB
+
+# 701
+* built in a JICA project, to be used in ASIG, Albania
+* Raspberry Pi 4 model B/4GB
+
+# 702
+* built in a JICA project, to be used in ASIG, Albania
+* Raspberry Pi 4 model B/4GB
+
+# 703
+* built in a JICA project, to be used in ASIG, Albania
+* Raspberry Pi 4 model B/4GB
+
+# 704
+* built in a JICA project, to be used in ASIG, Albania
+* Raspberry Pi 4 model B/4GB
+
+# 705
+* built in a JICA project, to be used in ASIG, Albania
+* Raspberry Pi 4 model B/4GB
+
+# 706
+* built in a JICA project, to be used in ASIG, Albania
+* Raspberry Pi 4 model B/4GB
+
+# 707
+* built in a JICA project, to be used in ASIG, Albania
+* Raspberry Pi 4 model B/4GB
