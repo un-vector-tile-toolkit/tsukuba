@@ -142,6 +142,15 @@ Misora is still a tentative name.
 # 360
 - Built in GSI
 - Raspberry Pi 4
+# 361
+- [yata](https://github.com/unvt/yata) 1
+- Raspberry Pi 4
+# 362
+- [yata](https://github.com/unvt/yata) 2
+- Raspberry Pi 4
+# 363
+- [yata](https://github.com/unvt/yata) 3
+- Raspberry Pi 4
 
 # 400
 * at Furuhashi Laboratory, Aoyama Gakuin University
