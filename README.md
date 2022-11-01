@@ -215,3 +215,31 @@ Misora is still a tentative name.
 # 707
 * built in a JICA project, to be used in ASIG, Albania
 * Raspberry Pi 4 model B/4GB
+
+# 2200 @smellman
+
+# 2201 Karen-san
+
+# 2202 Abdul-san
+
+# 2203 Rakib-san
+
+# 2204 Mihiret-san
+
+# j2205 Aibek-san
+
+# j2206 Ram-san
+
+# 2207 Ashok-san
+
+# 2208 Piya-san
+
+# 2209 Katan-san
+
+# 2210 Chon-san
+
+# 2211 Vili-san
+
+# 2212 Joyce-san
+
+# 2213 @hfu
