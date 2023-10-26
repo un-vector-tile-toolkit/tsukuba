@@ -1,4 +1,4 @@
-# tsukuba: Misora (UNVT Raspberry Pi) Ledger
+# tsukuba: UNVT Portal Ledger
 
 ![](tsukuba.jpg)
 
@@ -183,6 +183,14 @@ Misora is still a tentative name.
 # 407
 * at Furuhashi Laboratory, Aoyama Gakuin University
 * Raspberry Pi 4 model B/2GB
+
+# 411
+* built in GSI
+* Raspberry Pi 400/4GB
+
+# 412
+* built in GSI
+* Raspberry Pi 400/4GB
 
 # 700
 * built in a JICA project, to be used in ASIG, Albania
