@@ -192,6 +192,10 @@ Misora is still a tentative name.
 * built in GSI
 * Raspberry Pi 400/4GB
 
+# 413
+* built in GSI
+* Raspberry Pi 400/4GB
+
 # 700
 * built in a JICA project, to be used in ASIG, Albania
 * Raspberry Pi 4 model B/4GB
