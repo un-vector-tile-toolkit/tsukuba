@@ -152,6 +152,14 @@ Misora is still a tentative name.
 - [yata](https://github.com/unvt/yata) 3
 - Raspberry Pi 4
 
+# 365
+- By Research Planning Division, GSI, 2024-03
+- Raspberry Pi 4B (8GB)
+
+# 366
+- By Research Planning Division, GSI, 2024-03
+- Raspberry Pi 4B (8GB)
+
 # 400
 * at Furuhashi Laboratory, Aoyama Gakuin University
 * Raspberry Pi 3
