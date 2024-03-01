@@ -237,29 +237,44 @@ Misora is still a tentative name.
 * Raspberry Pi 4 model B/4GB
 
 # 2200 @smellman
+* Raspberry Pi 4 model B/4GB
 
 # 2201 Karen-san
+* Raspberry Pi 4 model B/4GB
 
 # 2202 Abdul-san
+* Raspberry Pi 4 model B/4GB
 
 # 2203 Rakib-san
+* Raspberry Pi 4 model B/4GB
 
 # 2204 Mihiret-san
+* Raspberry Pi 4 model B/4GB
 
 # j2205 Aibek-san
+* Raspberry Pi 4 model B/4GB
 
 # j2206 Ram-san
+* Raspberry Pi 4 model B/4GB
 
 # 2207 Ashok-san
-
+* Raspberry Pi 4 model B/4GB
+* 
 # 2208 Piya-san
+* Raspberry Pi 4 model B/4GB
 
 # 2209 Katan-san
+* Raspberry Pi 4 model B/4GB
 
 # 2210 Chon-san
-
+* Raspberry Pi 4 model B/4GB
+  
 # 2211 Vili-san
+* Raspberry Pi 4 model B/4GB
 
 # 2212 Joyce-san
+* Raspberry Pi 4 model B/4GB
 
 # 2213 @hfu
+* Raspberry Pi 4 model B/4GB
+  
